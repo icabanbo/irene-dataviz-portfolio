@@ -13,10 +13,8 @@ I hope to learn many things in this class. As an arts student, my work and knowl
 # Future Assignments
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
