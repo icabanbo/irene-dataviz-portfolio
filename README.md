@@ -11,50 +11,30 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! My name is Irene and I am a MAM student at Heinz College, Carnegie Mellon University. I'm a second-year (oof) and will be interning with Carnegie Museums as a Culture and Community intern. I'm really excited to work, since I believe that it is Arts Institutions that create successful, empathetic human beings and, in turn, communities. As a society, it is vital that we do not let go of the arts, ever. What would humans be without art?
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+All the things - obviously. Maybe I want to make a list of all the things. 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. How to read data efficiently enough to interpret it for someone else.
+2. Make aesthetically pleasing data visualizations.
+3. Learn how to make data sets user-friendly, no matter who is reading it. The simpler it is, the more people can learn and educate themselves.
 
 # Portfolio
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+Working with Tableau: Visualizing Government Debt
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
-## Final project
+Final Project
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
 
----
-## Other stuff you can do (you can remove this section - it's just for your reference.)
-
-### Changing text
-
-You can change text, like this: 
-
-**Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
-
-### Creating tables
-
-You can build tables like this: 
+Leaving this for future references for myself: 
 
 | Name         | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
 |--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
