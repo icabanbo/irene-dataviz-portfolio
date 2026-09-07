@@ -6,13 +6,13 @@ Hi! My name is Irene and I am a second-year MAM student here at Heinz College. T
 # What I hope to learn
 I hope to learn many things in this class. As an arts student, my work and knowledge will potentially impact entire communities; children, young adults, and developing professionals. It is important that all my knowledge and findings are: 1) accurate and up-to-date, and 2) clear and concise for all types of people to understand and learn. When you teach one person, you teach all their community members, too. However, to summarize:
 
-1. How to read data and understand it enough that I can explain it well to other people
-2. Create aesthetically pleasing graphics that attract users
-3. Help people understand complicated topics through graphics, so they may educate themselves and others
+1. How to read data and understand it enough that I can explain it well to other people.
+2. Create aesthetically pleasing graphics that attract users.
+3. Help people understand complicated topics through graphics, so they may educate themselves and others.
 
 # Future Assignments
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 
