@@ -100,10 +100,10 @@ The evolution of the colors, the fonts, and the text size was very organic and n
 
 That was the finished product.
 
-Lies.
+Not!
 
 
-As I went back and read through my initial thoughts, I saw that I was vehement on keeping the original palette. I decided that the orange kind of made it seem like I was talking about forest fires in the US, and changed the scheme to pink. Now this is my finished product.
+As I went back and read through my initial thoughts, I saw that I was vehement on keeping the original palette. I decided that the orange kind of made it seem like I was talking about forest fires in the US, and changed the scheme to pink. Now *this* is my finished product.
 
 <img width="758" height="547" alt="Screenshot 2026-09-17 at 10 14 29 PM" src="https://github.com/user-attachments/assets/cffe4424-dba4-4abe-a8b2-d8e8b5241cc0" />
 
