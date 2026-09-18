@@ -43,9 +43,9 @@ I’m very excited to play around with different colors, shapes, and ideas. It�
 
 As I’ve stated previously, this was not a bad graph, by any means. However, I felt I could pursue a different story and an easier, more effective way to communicate the same idea. In my initial thoughts, I said that I wanted to try out something like the dataviz depicting the most dangerous animals on earth classified by the number of people they kill in a year. I also said that I wanted to try out a bubble chart. I did both and these were my results.
 
-<img width="3696" height="2244" alt="image" src="https://github.com/user-attachments/assets/1e56cb80-35bc-4bbd-8f51-4855747e797d" />
+<img width="1956" height="1406" alt="image" src="https://github.com/user-attachments/assets/13780458-7e2a-4f9c-98fa-a2a557ec68d1" />
 
-<img width="1668" height="1163" alt="image" src="https://github.com/user-attachments/assets/5f3abb24-6a59-48df-b631-8a53ba7b0318" />
+<img width="1932" height="1194" alt="image" src="https://github.com/user-attachments/assets/3e3cd168-b5f5-406d-85da-62afeb63cae4" />
 
 
 **My Own Observations**
