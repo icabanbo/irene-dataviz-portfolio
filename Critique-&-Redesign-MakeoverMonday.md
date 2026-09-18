@@ -85,7 +85,7 @@ Additionally, I spoke to three classmates: two were from the MISM program and th
 
 After all of this feedback, I went back to try and make some adjustments. First, I tried to make a different kind of bubble chart. I made this in Canva since I wanted the freedom to play around with different orientations, sizes, and colors.
 
-<img width="1476" height="1064" alt="image" src="https://github.com/user-attachments/assets/a6f96753-8163-41b0-9bd9-160bf8e28506" />
+<img width="770" height="500" alt="image" src="https://github.com/user-attachments/assets/a6f96753-8163-41b0-9bd9-160bf8e28506" />
 
 As you can see, this didn’t end up going everywhere. I realized that as the bubbles kept getting smaller, I would have to put the data outside of them and cause clutter, which is exactly what I disliked about the original visualization. I also tried to go with a different color scheme but didn’t particularly like it. My second attempt at making a different kind of bubble chart also didn’t work out and ended up the same way: unfinished. These two graphs were inspired by [this graph](https://makeovermonday.vercel.app/dataset/2019w14) I found on MakeoverMonday depicting the amount of plastic washing up on UK beaches. I liked the design of the bubbles “falling” as the percentage lowered. Unfortunately, that did not work out.
 
