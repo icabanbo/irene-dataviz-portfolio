@@ -1,4 +1,4 @@
-| [home page](https://icabanbo.github.io/irene-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) | [Critique & Redesign MakeoverMonday](Critique-&-Redesign-MakeoverMonday.md) 
+| [home page](https://icabanbo.github.io/irene-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) | [Critique & Redesign MakeoverMonday](Critique-&-Redesign-MakeoverMonday) 
 
 # TSWD-portfolio-templates
 These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
