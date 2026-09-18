@@ -38,6 +38,7 @@ I’m very excited to play around with different colors, shapes, and ideas. It�
 > Photo by <a href="(https://howmuch.net/articles/university-with-the-most-student-loan-originations-in-every-state)">irena</a> on <a href="https://howmuch.net/">HowMuch</a>
 
 **Drafts**
+
 As I’ve stated previously, this was not a bad graph, by any means. However, I felt I could pursue a different story and an easier, more effective way to communicate the same idea. In my initial thoughts, I said that I wanted to try out something like the dataviz depicting the most dangerous animals on earth classified by the number of people they kill in a year. I also said that I wanted to try out a bubble chart. I did both and these were my results.
 
 <img width="3696" height="2244" alt="image" src="https://github.com/user-attachments/assets/1e56cb80-35bc-4bbd-8f51-4855747e797d" />
@@ -46,6 +47,7 @@ As I’ve stated previously, this was not a bad graph, by any means. However, I 
 
 
 **My Own Observations**
+
 - I like the idea of using purple, red, light orange, and yellow as a way to denote more to less without having to add too many labels.
 - For the first one, I like that the top two schools with the most debt origin stood out. It made it easier if someone just looked at the title and graph, since they would still get the general idea.
 - I like that there are no weird lines, no extra, unnecessary information, no huge logos with different colors, and less clutter overall.
@@ -58,14 +60,17 @@ Additionally, I spoke to three classmates: two were from the MISM program and th
 **What worked:**
 - The color scheme and the clear title
 - The round design
+  
 **What didn’t work:**
 - The colors with no legend to know what they meant
 - The small font
 - The lack of extra information
+
 **Questions that came up:**
 - What do the colors mean?
 - Why are there no labels to tell us what the colors mean?
 - Are the bar charts smaller subsections of the big two blocks on the left?
+
 **What new inspiration arose?**
 - Font from the first chart in the second
 - Overlay circles into map
