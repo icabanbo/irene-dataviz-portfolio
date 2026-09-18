@@ -1,6 +1,8 @@
-# **Initial thoughts (also available on the Google Form submitted)**:
+# **Critique & Redesign**
 
-**Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't work well?**
+# **Initial thoughts**:
+
+*Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't work well?*
 
 What stood out for me the most was the use of hue, saturation, and value. The hues are different enough that they don’t get confused or mistaken for another classification within the data visualization. For value, I appreciated how darker colors mean more money while lighter means less. It’s very intuitive and helps people have a general idea of what’s going on without spending too much time looking at it.  I also think the saturation of each color is good enough that I don’t feel like I’m being blinded by what I’m seeing, but also using very low saturation in areas where there is no data was really nice to see. Most of the time, white is used to demonstrate an empty dataset, and that would not have worked well here. 
 
@@ -10,13 +12,13 @@ Another aspect that stood out for me was that they included school names along w
 
 It’s also very inconsistent. Some schools have their full names, like The University of New Mexico, while others have their initials, like “WGU”. I have no idea what the latter stands for. As a reader: if I don’t know what it is and there is no quick way of finding out, I will not remember. When readers don’t remember, it makes a data visualization useless, since it didn't educate or push someone to learn more.
 
-**Who is the primary audience for this tool?  Do you think this visualization is effective for reaching that audience?  Why or why not?**
+*Who is the primary audience for this tool?  Do you think this visualization is effective for reaching that audience?  Why or why not?*
 
 I believe that the audience for this data visualization is a more politically-focused group during President Biden’s term while he was cancelling student debt. Because of the millions of people with crippling student debt, he was being asked to double the amount forgiven, from $10,000 to $20,000. This chart was made to show people which university alumni had the highest amount of debt during the 2020-2021 school year. 
 
 I’m not sure if this dataviz is effective for reaching that audience, though. If I were focused solely on which university per state had the highest indebted alumni, I think I would appreciate a more straight-forward approach with just the names and amounts. By adding the logos and different classifications (public, nonprofit, proprietary), it’s a lot of data that many people need to be looking at. This causes a lot of eye travel, which exhausts someone. I also think that by being so comprehensive, it causes people to maybe misunderstand, overlook a specific data point, or simply just not understand the purpose of this. We’ve discussed in class (and also read articles) the importance of having simple, effective data visualizations and how a non-memorable visualization could actually do a disservice to the author of the graph. I think this one is a good example of a good graph that still needs a couple of adjustments in order to become a great data visualization. 
 
-**Based on your critique, what do you think you'll try to focus on in your redesign?   Any ideas or inspiration for how you can make a better data visualization?  What are you excited to try next?**
+*Based on your critique, what do you think you'll try to focus on in your redesign?   Any ideas or inspiration for how you can make a better data visualization?  What are you excited to try next?*
 
 In my redesign, I think I’ll focus on maximizing the space I have on paper while still having a comprehensive design. I would like to minimize the amount of eye travel, improve legibility, and create a comprehensive story within this data visualization. I have a couple of ideas I want to try implementing:
 
@@ -37,7 +39,7 @@ I’m very excited to play around with different colors, shapes, and ideas. It�
 ![data visualization](https://pub-cee805df54de4b6c8f93bee984e3c725.r2.dev/datasets/2021w24/original_viz.png)
 > Photo by <a href="(https://howmuch.net/articles/university-with-the-most-student-loan-originations-in-every-state)">irena</a> on <a href="https://howmuch.net/">HowMuch</a>
 
-**Drafts**
+# **Drafts, Thoughts, & Result**
 
 As I’ve stated previously, this was not a bad graph, by any means. However, I felt I could pursue a different story and an easier, more effective way to communicate the same idea. In my initial thoughts, I said that I wanted to try out something like the dataviz depicting the most dangerous animals on earth classified by the number of people they kill in a year. I also said that I wanted to try out a bubble chart. I did both and these were my results.
 
