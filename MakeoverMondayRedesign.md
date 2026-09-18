@@ -32,7 +32,7 @@ Iâ€™m very excited to play around with different colors, shapes, and ideas. Itâ€
 
 # PROCESS
 
-**[Original Graph]**(https://makeovermonday.vercel.app/dataset/2021w24) 
+[Original Graph](https://makeovermonday.vercel.app/dataset/2021w24) 
 
 ![data visualization](https://pub-cee805df54de4b6c8f93bee984e3c725.r2.dev/datasets/2021w24/original_viz.png)
 > Photo by <a href="(https://howmuch.net/articles/university-with-the-most-student-loan-originations-in-every-state)">irena</a> on <a href="https://howmuch.net/">HowMuch</a>
