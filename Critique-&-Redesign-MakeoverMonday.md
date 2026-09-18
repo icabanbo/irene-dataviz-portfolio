@@ -117,3 +117,6 @@ As I went back and read through my initial thoughts, I saw that I was vehement o
 
 <img width="758" height="547" alt="Screenshot 2026-09-17 at 10 14 29 PM" src="https://github.com/user-attachments/assets/cffe4424-dba4-4abe-a8b2-d8e8b5241cc0" />
 
+AI Acknowledgements:
+----------------------
+I used Claude to troubleshoot a few Tableau technical modifications: changing the color of a graph and trying to combine a horizontal bar chart and a treemap (was not a success). 
