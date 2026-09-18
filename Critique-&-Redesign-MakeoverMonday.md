@@ -1,6 +1,16 @@
 # **Critique & Redesign**
 
-# **Initial thoughts**:
+# **Initial Thoughts and Data Visualization Effectiveness Profile**:
+
+| Category       | Rating      | Notes                                                                                                         |
+|--------------  |-------------|-----------------------------------------------------------------------------------------------------------    |
+| Usefulness     |    7/10     | It's meant to explain student debt and it does, somewhat.                                                     |
+| Completeness   |    4/10     | I think it has all the information, but not enough information on how it contributes to the map data.         |     
+| Perceptibility |    3/10     | It's honestly very complicated to understand what is going on with so many visuals, words, and colors.        |
+| Truthfulness   |    10/10    | It's accurate in its information.                                                                             |
+| Intuitiveness  |    3/10     | Difficult to understand right off the bat.                                                                    |
+| Aesthetics     |    3/10     | Very pretty colors, too cluttered and messy.                                                                  |
+| Engagement     |    9/10     | People will be interested because of the pretty colors and logo. I'm not sure if they'll retain any info.     |
 
 *Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't work well?*
 
