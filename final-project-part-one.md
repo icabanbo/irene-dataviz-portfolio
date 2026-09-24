@@ -1,42 +1,28 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+This project is inspired by the dozens of amazing movies that have come out in the past year, along with the amount of people who have told me: “I’ll think I’ll just wait until it comes out on x streaming service” or “Yeah, I have a website where I can watch it for free at home”. It is no secret that people of all ages are economically struggling, making outside activities almost a luxury for many of us. When my parents were 18 years old, they would go to the movies and not spend more than $8 on two tickets, popcorn, and drinks. Nowadays, $8 barely covers the ticket price.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+With this data visualization, I want to show the relationship between average movie ticket prices and the federal minimum wage since 2000 until 2017. Unfortunately, I could not find reliable data for more recent average movie ticket prices, so I decided to stay with this period of time. The federal minimum wage hasn’t changed since 2009, whereas ticket prices only increased to the point where one hour of work is not enough for your ticket. I want to show that even something as simple as going to the theaters is unattainable for the people living paycheck-to-paycheck.
 
-Text here...
+I want to tell the story of why people are not going out to the movies as often, if at all. I want to show my audience that it is not because we “don’t appreciate art” or because we’re lazy: we are economically struggling and having to prioritize and allocate our funds as strictly as possible in order to survive.
+
+My potential one-sentence could be: Movie theaters are a thing of the past, piracy is the path to the future.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+<img width="1772" height="1138" alt="image" src="https://github.com/user-attachments/assets/1dc0caaf-7150-460d-b4d7-f6015b33cd1c" />
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+My data sources are widely different. For the average movie ticket prices, I used a website called [The Numbers](https://www.the-numbers.com/). It is a legit, data-backed website about movies. They collect information on the latest box office releases, how much money they make, the ticket price, which movie theaters are making the most money, etc. It is a hub of information for any person interested in the filmmaking industry. I found the information I’m using on a separate [PDF](https://illinoistreasurergovprod.blob.core.usgovcloudapi.net/twocms/media/doc/6-8.1.1%20movie%20ticket%20prices.pdf) that provided a more digestible view of the data that I was looking for, and then I researched the actual website to corroborate its legitimacy. I should note that the PDF I used showed up on my Google search when I looked for average movie ticket prices. The only reason I am using it is because it cited The Numbers as its original source.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+For the federal minimum wage, I used two websites. The first one is, of course, the [U.S. Department of Labor](https://www.dol.gov/agencies/whd/minimum-wage/history/chart) website, where I looked for the federal minimum wages from 2000-2009. The minimum wage has yet to change from then. For my second source, I looked at a website called [Macrotrends](https://www.macrotrends.net/3704/federal-minimum-wage-rate), where I looked for a second graph telling me that the minimum wage hadn’t changed since 2009. The numbers come from the government website, though.
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+I believe that these four main sources are the only ones I will be using. However, I think I will more than likely add more to my story to give it more emotional impact, so any more sources will be linked and explained here.
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
-
-## References
-_List any references you used here._
+I believe that for this project, I will be using Tableau,  since we’ve been using it since the beginning and I want to continue developing my skills with it. Also, I think that for this project in particular, the data is so simple that I can play around with it on Tableau and create different kinds of visualizations (while keeping the minimalistic aesthetic).
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used AI to help me come up with ideas for topics, since I realized that I had many ideas in mind but many of them had no quantitative data I could use. 
