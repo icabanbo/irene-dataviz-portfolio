@@ -11,7 +11,7 @@ My potential one-sentence could be: Movie theaters are a thing of the past, pira
 
 ## Initial sketches
 
-<img width="1772" height="1138" alt="image" src="https://github.com/user-attachments/assets/1dc0caaf-7150-460d-b4d7-f6015b33cd1c" />
+<img width="1640" height="975" alt="image" src="https://github.com/user-attachments/assets/3ee3229f-d022-4cf5-aab2-c236aac659a7" />
 
 # The data
 
