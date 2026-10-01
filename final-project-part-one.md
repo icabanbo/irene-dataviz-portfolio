@@ -23,9 +23,9 @@ For the federal minimum wage, I used two websites. The first one is, of course, 
 I believe that these four main sources are the only ones I will be using. However, I think I will more than likely add more to my story to give it more emotional impact, so any more sources will be linked and explained here.
 
 # Method and medium
-I believe that for this project, I will be using Tableau and Canva for my sketches, since I have mastered both for data visualizations. Tableau will be to design full-fledged data visualizations with concrete data while Canvas will be used to both polish those dataviz up (making them cleaner and more colorful) and also creating more artistic dataviz.
+I believe that for this project, I will be using Tableau, Canva, and [Flourish](https://flourish.studio/) (this is a new dataviz tool I have found while looking for easier ways to visualize my data)for my sketches. Tableau will be to design full-fledged data visualizations with concrete data while Canvas and Flourish will be used to both polish those visualizations (making them cleaner and more colorful) and also creating more artistic designs.
 
-Additionally, I will be using Shorthand to make my presentation. I think it's the most straightforward way to present my findings. 
+Additionally, I will be using Shorthand to make my final presentation for class. I think it's the most straightforward way to present my findings. 
 
 ## AI acknowledgements
 I used AI to help me come up with ideas for topics, since I realized that I had many ideas in mind but many of them had no quantitative data I could use. It was also useful when I had my call-to-action and my introduction, but I found myself struggling how to draw a coherent storyline around that.
