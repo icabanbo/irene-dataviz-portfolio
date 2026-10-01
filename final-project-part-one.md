@@ -13,6 +13,11 @@ My potential one-sentence summary could be: Instead of a $23 million violin, why
 
 <img width="1450" height="838" alt="image" src="https://github.com/user-attachments/assets/16d1489b-16a9-4bb7-8fff-aeb5b88cf68d" />
 
+For the Miami Music Project After-School Program, $23 million makes an unimaginable impact on 4,600 kids. When buying that Stradivarius violin, the impact is on 1 person and their personal collection. These after-school programs aren't a one-time-a-week event: the kids get to go to a safe place where they have food, help with their homework, music classes, and get to develop soft skills like interpersonal communication, leadership, and adaptability. 
+
+This has an impact that reverberates as the years go by. According to [Americans for Arts](https://ww2.americansforthearts.org/explorer), every $1 invested in the arts saves $9 by reducing welfare and crime and improving both learning ability and academic performance. 
+
+<img width="1436" height="990" alt="image" src="https://github.com/user-attachments/assets/c440fcab-52ca-4fa3-a7db-d92ae8c061f9" />
 
 # The data
 
@@ -29,3 +34,8 @@ Additionally, I will be using Shorthand to make my final presentation for class.
 
 ## AI acknowledgements
 I used AI to help me come up with ideas for topics, since I realized that I had many ideas in mind but many of them had no quantitative data I could use. It was also useful when I had my call-to-action and my introduction, but I found myself struggling how to draw a coherent storyline around that.
+
+## Critiques
+
+For critiques, I made a table to keep track of demographics and what people are saying. These were my findings for part 1.
+
