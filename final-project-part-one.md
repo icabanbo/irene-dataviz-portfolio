@@ -5,13 +5,14 @@ This project was inspired by two experiences: being in a family of violinists an
 
 As I complete my Master of Arts Management here at Heinz College, I learn that what I felt is not only correct, but backed by data. Americans for Arts has studies upon studies of how art affects people, communities, economies, people, and even crime rates. I want to show my audience that art isn’t just something to enjoy on your time off: it is a social need to have higher-functioning societies and communities. It is not just: “Arts heals”, it’s “Art creates better economies, decreases crime rates, and improves social well-being.”
 
-Using data-backed research, I want to show my audience (in this case, I will be pretending that I am talking to private foundations without an arts portfolio with a mission to do social good) the importance of art in societies and why they should expand their reach and give money to the arts. I will do this by using a violin that was sold for $23 million dollars at a private sale, what that money could do, and the impact (social good) it will have on different communities.
+Using data-backed research, I want to show my audience (in this case, I will be pretending that I am talking to private foundations without an arts portfolio with a mission to do social good) the importance of art in societies and why they should expand their reach and give money to the arts. I will do this by using a violin that was sold for $23 million dollars at a private sale, what that money could do, and the impact (social good) it will have on different communities. To do this, I will be using a Florida artistic after-school program called Miami Music Project Inc. The comparison will be between the impact the $23 million violin has on society versus $23 million in an arts program.
 
 My potential one-sentence summary could be: Instead of a $23 million violin, why not a $23 million society?
 
 ## Initial sketches
 
-<img width="1640" height="975" alt="image" src="https://github.com/user-attachments/assets/3ee3229f-d022-4cf5-aab2-c236aac659a7" />
+<img width="1450" height="830" alt="image" src="https://github.com/user-attachments/assets/696635d9-67fd-4a5d-9a56-a989269fc519" />
+
 
 # The data
 
