@@ -11,7 +11,7 @@ My potential one-sentence summary could be: Instead of a $23 million violin, why
 
 ## Initial sketches
 
-<img width="1450" height="830" alt="image" src="https://github.com/user-attachments/assets/696635d9-67fd-4a5d-9a56-a989269fc519" />
+<img width="1450" height="838" alt="image" src="https://github.com/user-attachments/assets/16d1489b-16a9-4bb7-8fff-aeb5b88cf68d" />
 
 
 # The data
