@@ -59,24 +59,11 @@ For the purposes of this project, I am pretending that I will be presenting to a
 
 ## Interview findings
 
-<img width="2752" height="1232" alt="image" src="https://github.com/user-attachments/assets/a8a34d29-ded2-43ab-a035-b6c642280afa" />
+<img width="1368" height="1440" alt="image" src="https://github.com/user-attachments/assets/d15d0ab2-2800-442b-9afb-f74880ad703d" />
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
 
 ## Personas
 
