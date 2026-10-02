@@ -12,7 +12,8 @@ My data will include the impact of arts exposure on cognitive development in ear
 ## Updated data
 
 **Impact of arts exposure on cognitive development in early-childhood**
-Now, how exactly do the arts impact children? A study done by Musdalifah Syafitri in Indonesia, _The Impact of the Arts on Children's Cognitive Development_, shows how children regularly exposed to art score in cognitive exams compared to children not regularly exposed to art. The results are staggering. Before the exposure, both the control group and intercepted group score very similar on each test. However, once the intercepted group is exposed, there is a huge difference.
+
+How exactly do the arts impact children? A study done by Musdalifah Syafitri in Indonesia, _The Impact of the Arts on Children's Cognitive Development_, shows how children regularly exposed to art score in cognitive exams compared to children not regularly exposed to art. The results are staggering. Before the exposure, both the control group and the intercepted group score very similar on each test. However, once the intercepted group is exposed, there is a huge difference.
 
 <img width="1582" height="1062" alt="image" src="https://github.com/user-attachments/assets/803b9d55-ee13-463f-a61e-67ed7de69e95" />
 
@@ -21,6 +22,20 @@ Isn't this exactly what we strive towards, as a society? We want to have childre
 <img width="2224" height="676" alt="image" src="https://github.com/user-attachments/assets/e9e3075b-03dd-4d79-b0eb-c92e72e3f2ec" />
 
 My sources for this data came Americans for the Arts. Citations are under _References_ on this same page.
+
+Across the years, students with years of arts classes under their belts consistently score at least 90 points higher on their SATs. This means that early exposure to the arts improves cognitive development more often than not, and that maintaining that exposure up until high-school benefits students. Please keep in mind that this is a _correlation_, not _causation_, though. Not only is this a win for these young humans who are going out into the world better prepared, but this is a win for _us_. For society. By having communities with arts exposure, we as a society progress and change. A great example of this is prison rehabilitation.
+
+According to the Office of the Assistant Secretary for Planning and Evaluation, almost 6.9 million people in the US are incarcerated, on probation, on parole, or in jail at any given time. Isn't that ridiculous? Don't we want to do better? Well, Americans for the Arts (this is cited under _References_ at the bottom of the page), has a very interesting fact sheet where they talk about prison rehabilitation and prisoner behavior in relation to art in the state of California. 
+
+<img width="1864" height="1428" alt="image" src="https://github.com/user-attachments/assets/f11c9853-61ed-41f4-8ab6-f733aef006fa" />
+
+"Arts In Corrections (AIC) is a program that allows incarcerated persons to create self-awareness through visual, literary, media, performing, and folk and traditional art opportunities. AIC is a partnership between the California Department of Corrections and Rehabilitation (CDCR) and the California Arts Council, designed to prepare incarcerated persons’ success upon release, enhance rehabilitative goals, and improve the safety and environment of CDCR institutions." (Arts in Corrections - Division of Rehabilitative Programs (DRP))
+
+California saw statistically significant differences in inmate behaviors both in and outside of prisons when in contact with the Arts in Corrections program.
+
+## Call to Action
+
+If this is the future you see for you and your children, a future where we fund art and, in turn, we see progress, critical thinking, young and intelligent humans, and inmates who _can_ grow past their crimes, open a portfolio for the arts. Give out grants and donations to organizations with after-school programs and summer programs. 
 
 # User research 
 
@@ -96,10 +111,16 @@ Americans for the Arts. (2013). Arts students outperform non-arts students on SA
 
 Americans for the Arts. (2018, March). Arts facts: SAT scores and the arts 1999–2016 [One-pager]. National Arts Administration and Policy Publications Database. https://www.americansforthearts.org/node/100582
 
+**Data for Arts-in-Corrections:**
+
+Arts in Corrections - Division of Rehabilitative Programs (DRP). (2026, August 26). Division of Rehabilitative Programs (DRP). https://www.cdcr.ca.gov/rehabilitation/aic/
+
+Americans for the Arts, Arts + Prisons & Rehabilitation. https://ww2.americansforthearts.org/sites/default/files/2025-01/ARTS%20%2B%20PRISONS%20%26%20REHABILITATION.pdf
+
 ## AI acknowledgements
 - I did use Claude AI to build a customer persona based on information I fed it from Claritas. The links for each Claritas segment are under _References_.
 - Claude AI was also used to receive step-by-step instructions on how to build the SAT score dumbbell chart using the information I had.
 - Claude AI was used to find information, however, all sources were double-checked by me in the resources for each paper I am referencing.
+- Claude AI was used to make the sankey chart with the data about Arts-in-Corrections. I knew I couldn't do it on Tableau because the data wouldn't be perfect, and I also chose not to draw it because it wouldn't fit in with the general aesthetic of the visualizations in this project, so I had AI make it for me. The information was looked up by me, however, not AI. 
 
 ## To get a sneak peek of my Shorthand website, click [here](https://carnegiemellon.shorthandstories.com/3db6353a-ea54-430d-84c2-995b7d911973/)
-
