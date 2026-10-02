@@ -38,12 +38,6 @@ For critiques, I want a sample of people who know me very well, people from my d
 _For audience:_
 For the purposes of this project, I am pretending that I will be presenting to a group of private foundation officers whose portfolios lack an arts component, but whose mission has an element of social good. These people will have millions of dollars at their disposal and are looking to expand their reach to underserved sectors and fields. 
 
-## Personas
-
-Using [Claritas](https://claritas360.claritas.com/mybestsegments/#zipLookup), I made a [Miro Board](https://miro.com/app/board/uXjVEf9kbmA=/?share_link_id=915034526765) with two different personas using the same zip code. The first persona, Sue, was made by me and the second, Dr. Anjali Rao, was made by Claude AI. I wanted to use AI to make the second to compare it with what I could do based on previous experience using Miro and Claritas to make marketing personas. As I expected, even with all the information I gave Claude, it couldn't really do much more than what I presented as an example. That said, I do think that it was a fun experiment and a good way to have two "people' for which I could make my presentation form.
-
-Based off of these personas, I need to present in a clear, concise way. My ask needs to be straightforward and so does my call-to-action. I also need to present my data as comprehensively as possible, as these two people will not accept whatever typical answer I give them. They want a clear project they can envision and instantly put their money in.
-
 ## Interview script
 
 |                                Goal                                      |                      Questions to Ask                       |
@@ -82,10 +76,17 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+## Personas
 
-Text here!
+Using [Claritas](https://claritas360.claritas.com/mybestsegments/#zipLookup), I made a [Miro Board](https://miro.com/app/board/uXjVEf9kbmA=/?share_link_id=915034526765) with two different personas using the same zip code. The first persona, Sue, was made by me and the second, Dr. Anjali Rao, was made by Claude AI. I wanted to use AI to make the second to compare it with what I could do based on previous experience using Miro and Claritas to make marketing personas. As I expected, even with all the information I gave Claude, it couldn't really do much more than what I presented as an example. That said, I do think that it was a fun experiment and a good way to have two "people' for which I could make my presentation form.
+
+Based off of these personas, I need to present in a clear, concise way. My ask needs to be straightforward and so does my call-to-action. I also need to present my data as comprehensively as possible, as these two people will not accept whatever typical answer I give them. They want a clear project they can envision and instantly put their money in.
+
+My persona:
+<img width="1232" height="962" alt="image" src="https://github.com/user-attachments/assets/ce737056-badb-4ed4-a74a-4b5d6cc4fdd3" />
+
+Claude AI's persona:
+<img width="1018" height="812" alt="image" src="https://github.com/user-attachments/assets/a73aa485-b091-4020-a410-f583bcac235f" />
 
 ## References
 **Data for radar chart:** 
@@ -109,7 +110,9 @@ Americans for the Arts. (2013). Arts students outperform non-arts students on SA
 Americans for the Arts. (2018, March). Arts facts: SAT scores and the arts 1999–2016 [One-pager]. National Arts Administration and Policy Publications Database. https://www.americansforthearts.org/node/100582
 
 ## AI acknowledgements
-No AI to get information, but I did use Claude AI to build a customer persona based on information I fed it from Claritas. The links for each Claritas segment are under _References_.
+- I did use Claude AI to build a customer persona based on information I fed it from Claritas. The links for each Claritas segment are under _References_.
+- Claude AI was also used to receive step-by-step instructions on how to build the SAT score dumbbell chart using the information I had.
+- Claude AI was used to find information, however, all sources were double-checked by me in the resources for each paper I am referencing.
 
 ## To get a sneak peek of my Shorthand website, click [here](https://carnegiemellon.shorthandstories.com/3db6353a-ea54-430d-84c2-995b7d911973/)
 
