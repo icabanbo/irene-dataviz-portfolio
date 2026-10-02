@@ -76,9 +76,13 @@ Text here!
 Data for radar chart: 
 Syafitri, Musdalifah. «The Impact of the Arts on Children’s Cognitive Development». Journal of Studies on Art, Culture and Society, 3 de julio de 2024, 56-61. https://doi.org/10.62012/jacs.v1i2.11.
 
+Data for customer persona:
+Claritas. (n.d.). https://claritas360.claritas.com/mybestsegments/#segDetail/PZP/01
+Claritas. (n.d.). https://claritas360.claritas.com/mybestsegments/#segDetail/PZP/02
+Claritas. (n.d.). https://claritas360.claritas.com/mybestsegments/#segDetail/PZP/06
 
 ## AI acknowledgements
-No AI for this part! All me.
+No AI to get information, but I did use Claude AI to build a customer persona based on information I fed it from Claritas. The links for each Claritas segment are under _References_.
 
 ## To get a sneak peek of my Shorthand website, click [here](https://carnegiemellon.shorthandstories.com/3db6353a-ea54-430d-84c2-995b7d911973/)
 
