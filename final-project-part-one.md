@@ -37,5 +37,4 @@ I used AI to help me come up with ideas for topics, since I realized that I had 
 
 ## Critiques
 
-For critiques, I made a table to keep track of demographics and what people are saying. These were my findings for part 1.
-
+<img width="1592" height="1252" alt="image" src="https://github.com/user-attachments/assets/5c67c8b4-5d58-48ed-9627-5c4801cf41db" />
