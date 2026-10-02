@@ -19,7 +19,7 @@ How exactly do the arts impact children? A study done by Musdalifah Syafitri in 
 
 Isn't this exactly what we strive towards, as a society? We want to have children with critical thinking skills, the ability to apply what they know, and, of course, the motor skills necessary to accompany these cognitive skills. **Reminder:** this is only in _elementary schoolchildren_. Imagine how far this could go if we expand this exposure to, for example, middle school? Or high-school? What would that look like? Well...
 
-<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/e9e3075b-03dd-4d79-b0eb-c92e72e3f2ec" />
+<img width="1340" height="957" alt="image" src="https://github.com/user-attachments/assets/a04ee4f7-bf96-4b9e-8fa4-f57f4e0c8e83" />
 
 My sources for this data came Americans for the Arts. Citations are under _References_ on this same page.
 
@@ -27,7 +27,7 @@ Across the years, students with years of arts classes under their belts consiste
 
 According to the Office of the Assistant Secretary for Planning and Evaluation, almost 6.9 million people in the US are incarcerated, on probation, on parole, or in jail at any given time. Isn't that ridiculous? Don't we want to do better? Well, Americans for the Arts (this is cited under _References_ at the bottom of the page), has a very interesting fact sheet where they talk about prison rehabilitation and prisoner behavior in relation to art in the state of California. 
 
-<img width="1340" height="957" alt="image" src="https://github.com/user-attachments/assets/a04ee4f7-bf96-4b9e-8fa4-f57f4e0c8e83" />
+<img width="1564" height="1428" alt="image" src="https://github.com/user-attachments/assets/f780f232-d420-4f52-b7ee-ef24ca17587d" />
 
 "Arts In Corrections (AIC) is a program that allows incarcerated persons to create self-awareness through visual, literary, media, performing, and folk and traditional art opportunities. AIC is a partnership between the California Department of Corrections and Rehabilitation (CDCR) and the California Arts Council, designed to prepare incarcerated persons’ success upon release, enhance rehabilitative goals, and improve the safety and environment of CDCR institutions." (Arts in Corrections - Division of Rehabilitative Programs (DRP))
 
