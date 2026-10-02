@@ -77,6 +77,7 @@ Data for radar chart:
 Syafitri, Musdalifah. «The Impact of the Arts on Children’s Cognitive Development». Journal of Studies on Art, Culture and Society, 3 de julio de 2024, 56-61. https://doi.org/10.62012/jacs.v1i2.11.
 
 Data for customer persona:
+
 Claritas. (n.d.). https://claritas360.claritas.com/mybestsegments/#segDetail/PZP/01
 Claritas. (n.d.). https://claritas360.claritas.com/mybestsegments/#segDetail/PZP/02
 Claritas. (n.d.). https://claritas360.claritas.com/mybestsegments/#segDetail/PZP/06
