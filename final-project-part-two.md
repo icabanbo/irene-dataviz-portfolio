@@ -20,13 +20,7 @@ Isn't this exactly what we strive towards, as a society? We want to have childre
 
 <img width="2224" height="676" alt="image" src="https://github.com/user-attachments/assets/e9e3075b-03dd-4d79-b0eb-c92e72e3f2ec" />
 
-My sources for this data came Americans for the Arts studies:
-
-Americans for the Arts. (n.d.). Arts facts: SAT scores and the arts 1999–2015 [One-pager]. National Arts Administration and Policy Publications Database. https://www.americansforthearts.org/by-program/reports-and-data/legislation-policy/naappd/arts-facts-sat-scores-and-the-arts-1999-2015
-
-Americans for the Arts. (2013). Arts students outperform non-arts students on SAT [Infographic]. https://www.americansforthearts.org/sites/default/files/pdf/get_involved/advocacy/research/2013/artsed_sat13.pdf
-
-Americans for the Arts. (2018, March). Arts facts: SAT scores and the arts 1999–2016 [One-pager]. National Arts Administration and Policy Publications Database. https://www.americansforthearts.org/node/100582
+My sources for this data came Americans for the Arts. Citations are under _References_ on this same page.
 
 # User research 
 
