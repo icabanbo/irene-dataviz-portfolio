@@ -48,15 +48,7 @@ For the purposes of this project, I am pretending that I will be presenting to a
 | I want to know if I am missing anything else.                            | What gaps do you see? What are you not understanding?       | 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
 
 
 # Identified changes for Part III
