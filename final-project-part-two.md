@@ -1,30 +1,36 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+## Updated Storyline
+Art is often regarded as something you do because it distracts you from your daily life and is a well-deserved break from your “real job”. We still see this discipline as unserious, useless, and not something to pursue if you want to be successful in life. Well, I’m here to tell you how completely erroneous and backwards that is. I grew up as the daughter of a violinist, who was the son of a violinist, who was the son of a luthier (a person who builds violins). I also grew up as a violinist, and that meant going out to concerts, seeing symphonic orchestra rehearsals, going to my own rehearsals, going to friends’ houses just to watch our parents play intimate concerts in their living room. My upbringing was so rich that I am now studying and pursuing a degree so everyone can experience that kind of upbringing. Those kids that grew up with me playing different instruments or simply being around the arts grew up to be some of the most creative and empathetic critical thinkers I have ever met. Even now, I meet people who grew up surrounded by art and are such intelligent human beings; it’s unreal. 
 
-Text here!
+As beautiful as this sounds, words are truly just words until they are backed by data. Until they have real-world consequences, effects, and impact. As I complete my Master of Arts Management here at Heinz College, I learn that what I felt is not only correct, but backed by data. Americans for Arts has studies upon studies of how art affects people, communities, economies, people, and even crime rates. I want to show you that art isn’t just something to enjoy on your time off: it is a social need to have higher-functioning societies and communities. It is not just: “Arts heals”, it’s “Art creates better economies, decreases crime rates, and improves social well-being.”
+
+Using data-backed research, I will prove (in this case, I will be pretending that I am talking to private foundations without an arts portfolio with a mission to do social good) the importance of art in societies and why you should expand your reach and give money to the arts. This is a step towards a bright future with a society that can progress in a beautiful, creative way. All this is possible with investing in the right places and the people. 
+
+## Updated data
+
+Now, how exactly do the arts impact children? A study done by Musdalifah Syafitri in Indonesia, _The Impact of the Arts on Children's Cognitive Development_, shows how children regularly exposed to art score in cognitive exams compared to children not regularly exposed to art. The results are staggering. Before the exposure, both the control group and intercepted group score very similar on each test. However, once the intercepted group is exposed, there is a huge difference.
+
+<img width="1582" height="1062" alt="image" src="https://github.com/user-attachments/assets/803b9d55-ee13-463f-a61e-67ed7de69e95" />
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+_For critiques:_
+For critiques, I want a sample of people who know me very well, people from my degree, and people who know me only from the Telling Stories with Data course. Those who know me very well will be extremely honest in their feedback, since they understand how committed I am to my research and how much I want to make this as accurate as possible. It also allows for easier conversation on what I could do better and what just doesn't work, period. This was made clear by my feedback on the first part (the most honest, brutal critique was from someone who has known me for a very, very long time). Second, the people who are in my degree not only understand this project, because they've also studied it, but they come with different perspectives. Although we are in the same field, we have different ways of seeing things and different ways of communicating the same information. My last critique proved that this was the correct choice. Finally, people who only know me from this course allow the last piece of the puzzle: no knowledge about my topic but all the knowledge about the class. These people are extra important, since I know for a fact that they won't know as much as I do about the topic, but know the elements that make an effective data visualization. They will tell me if I am communicating the information properly and using our dataviz tools properly. 
+
+_For audience:_
+For the purposes of this project, I am pretending that I will be presenting to a group of private foundation officers whose portfolios lack an arts component, but whose mission has an element of social good. These people will have millions of dollars at their disposal and are looking to expand their reach to underserved sectors and fields. 
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
-
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
+|                                Goal                                      |                      Questions to Ask                       |
+|--------------------------------------------------------------------------|-------------------------------------------------------------|
+| To see if my new data visualizations are clearer than the ones in part 1.| Do you understand the data I am presenting? Why or why not? |
+| I want to know if my storyline and data motivate more people to act.     | Do you want to act? What part motivated your answer?        |
+| Are my findings clear? Are they pertinent to the story?                  | Do you understand why I presented this data?                |
+| I want to know if I am missing anything else.                            | What gaps do you see? What are you not understanding?       | 
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
@@ -61,8 +67,12 @@ Text here!
 Text here!
 
 ## References
-_List any references you used here._
+Data for radar chart: 
+Syafitri, Musdalifah. «The Impact of the Arts on Children’s Cognitive Development». Journal of Studies on Art, Culture and Society, 3 de julio de 2024, 56-61. https://doi.org/10.62012/jacs.v1i2.11.
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+No AI for this part! All me.
+
+## To get a sneak peek of my Shorthand website, click [here](https://carnegiemellon.shorthandstories.com/3db6353a-ea54-430d-84c2-995b7d911973/)
 
