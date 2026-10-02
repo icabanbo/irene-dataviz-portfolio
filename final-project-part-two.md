@@ -15,11 +15,11 @@ My data will include the impact of arts exposure on cognitive development in ear
 
 How exactly do the arts impact children? A study done by Musdalifah Syafitri in Indonesia, _The Impact of the Arts on Children's Cognitive Development_, shows how children regularly exposed to art score in cognitive exams compared to children not regularly exposed to art. The results are staggering. Before the exposure, both the control group and the intercepted group score very similar on each test. However, once the intercepted group is exposed, there is a huge difference.
 
-<img width="1582" height="1062" alt="image" src="https://github.com/user-attachments/assets/803b9d55-ee13-463f-a61e-67ed7de69e95" />
+<img width="1482" height="1062" alt="image" src="https://github.com/user-attachments/assets/803b9d55-ee13-463f-a61e-67ed7de69e95" />
 
 Isn't this exactly what we strive towards, as a society? We want to have children with critical thinking skills, the ability to apply what they know, and, of course, the motor skills necessary to accompany these cognitive skills. **Reminder:** this is only in _elementary schoolchildren_. Imagine how far this could go if we expand this exposure to, for example, middle school? Or high-school? What would that look like? Well...
 
-<img width="2224" height="676" alt="image" src="https://github.com/user-attachments/assets/e9e3075b-03dd-4d79-b0eb-c92e72e3f2ec" />
+<img width="1724" height="676" alt="image" src="https://github.com/user-attachments/assets/e9e3075b-03dd-4d79-b0eb-c92e72e3f2ec" />
 
 My sources for this data came Americans for the Arts. Citations are under _References_ on this same page.
 
@@ -27,7 +27,7 @@ Across the years, students with years of arts classes under their belts consiste
 
 According to the Office of the Assistant Secretary for Planning and Evaluation, almost 6.9 million people in the US are incarcerated, on probation, on parole, or in jail at any given time. Isn't that ridiculous? Don't we want to do better? Well, Americans for the Arts (this is cited under _References_ at the bottom of the page), has a very interesting fact sheet where they talk about prison rehabilitation and prisoner behavior in relation to art in the state of California. 
 
-<img width="1864" height="1428" alt="image" src="https://github.com/user-attachments/assets/f11c9853-61ed-41f4-8ab6-f733aef006fa" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/f11c9853-61ed-41f4-8ab6-f733aef006fa" />
 
 "Arts In Corrections (AIC) is a program that allows incarcerated persons to create self-awareness through visual, literary, media, performing, and folk and traditional art opportunities. AIC is a partnership between the California Department of Corrections and Rehabilitation (CDCR) and the California Arts Council, designed to prepare incarcerated persons’ success upon release, enhance rehabilitative goals, and improve the safety and environment of CDCR institutions." (Arts in Corrections - Division of Rehabilitative Programs (DRP))
 
