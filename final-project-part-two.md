@@ -7,11 +7,26 @@ As beautiful as this sounds, words are truly just words until they are backed by
 
 Using data-backed research, I will prove (in this case, I will be pretending that I am talking to private foundations without an arts portfolio with a mission to do social good) the importance of art in societies and why you should expand your reach and give money to the arts. This is a step towards a bright future with a society that can progress in a beautiful, creative way. All this is possible with investing in the right places and the people. 
 
+My data will include the impact of arts exposure on cognitive development in early-childhood, how art drives the economy, and how having an arts-based society reduces crime rates.
+
 ## Updated data
 
+**Impact of arts exposure on cognitive development in early-childhood**
 Now, how exactly do the arts impact children? A study done by Musdalifah Syafitri in Indonesia, _The Impact of the Arts on Children's Cognitive Development_, shows how children regularly exposed to art score in cognitive exams compared to children not regularly exposed to art. The results are staggering. Before the exposure, both the control group and intercepted group score very similar on each test. However, once the intercepted group is exposed, there is a huge difference.
 
 <img width="1582" height="1062" alt="image" src="https://github.com/user-attachments/assets/803b9d55-ee13-463f-a61e-67ed7de69e95" />
+
+Isn't this exactly what we strive towards, as a society? We want to have children with critical thinking skills, the ability to apply what they know, and, of course, the motor skills necessary to accompany these cognitive skills. **Reminder:** this is only in _elementary schoolchildren_. Imagine how far this could go if we expand this exposure to, for example, middle school? Or high-school? What would that look like? Well...
+
+<img width="2224" height="676" alt="image" src="https://github.com/user-attachments/assets/e9e3075b-03dd-4d79-b0eb-c92e72e3f2ec" />
+
+My sources for this data came Americans for the Arts studies:
+
+Americans for the Arts. (n.d.). Arts facts: SAT scores and the arts 1999–2015 [One-pager]. National Arts Administration and Policy Publications Database. https://www.americansforthearts.org/by-program/reports-and-data/legislation-policy/naappd/arts-facts-sat-scores-and-the-arts-1999-2015
+
+Americans for the Arts. (2013). Arts students outperform non-arts students on SAT [Infographic]. https://www.americansforthearts.org/sites/default/files/pdf/get_involved/advocacy/research/2013/artsed_sat13.pdf
+
+Americans for the Arts. (2018, March). Arts facts: SAT scores and the arts 1999–2016 [One-pager]. National Arts Administration and Policy Publications Database. https://www.americansforthearts.org/node/100582
 
 # User research 
 
@@ -73,16 +88,25 @@ Text here!
 Text here!
 
 ## References
-Data for radar chart: 
+**Data for radar chart:** 
+
 Syafitri, Musdalifah. «The Impact of the Arts on Children’s Cognitive Development». Journal of Studies on Art, Culture and Society, 3 de julio de 2024, 56-61. https://doi.org/10.62012/jacs.v1i2.11.
 
-Data for customer persona:
+**Data for customer persona:**
 
 Claritas. (n.d.). https://claritas360.claritas.com/mybestsegments/#segDetail/PZP/01
 
 Claritas. (n.d.). https://claritas360.claritas.com/mybestsegments/#segDetail/PZP/02
 
 Claritas. (n.d.). https://claritas360.claritas.com/mybestsegments/#segDetail/PZP/06
+
+**Data for SAT scores in High-School Seniors:**
+
+Americans for the Arts. (n.d.). Arts facts: SAT scores and the arts 1999–2015 [One-pager]. National Arts Administration and Policy Publications Database. https://www.americansforthearts.org/by-program/reports-and-data/legislation-policy/naappd/arts-facts-sat-scores-and-the-arts-1999-2015
+
+Americans for the Arts. (2013). Arts students outperform non-arts students on SAT [Infographic]. https://www.americansforthearts.org/sites/default/files/pdf/get_involved/advocacy/research/2013/artsed_sat13.pdf
+
+Americans for the Arts. (2018, March). Arts facts: SAT scores and the arts 1999–2016 [One-pager]. National Arts Administration and Policy Publications Database. https://www.americansforthearts.org/node/100582
 
 ## AI acknowledgements
 No AI to get information, but I did use Claude AI to build a customer persona based on information I fed it from Claritas. The links for each Claritas segment are under _References_.
