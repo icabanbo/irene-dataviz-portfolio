@@ -7,7 +7,7 @@ As beautiful as this sounds, words are truly just words until they are backed by
 
 Using data-backed research, I will prove (in this case, I will be pretending that I am talking to private foundations without an arts portfolio with a mission to do social good) the importance of art in societies and why you should expand your reach and give money to the arts. This is a step towards a bright future with a society that can progress in a beautiful, creative way. All this is possible with investing in the right places and the people. 
 
-My data will include the impact of arts exposure on cognitive development in early-childhood, how art drives the economy, and how having an arts-based society reduces crime rates.
+My data will include the impact of arts exposure on cognitive development in early-childhood, its effects on SAT scores, and how inmates benefit from having arts programs during their time served.
 
 ## Updated data
 
