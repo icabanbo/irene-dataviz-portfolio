@@ -46,6 +46,7 @@ For the purposes of this project, I am pretending that I will be presenting to a
 | I want to know if my storyline and data motivate more people to act.     | Do you want to act? What part motivated your answer?        |
 | Are my findings clear? Are they pertinent to the story?                  | Do you understand why I presented this data?                |
 | I want to know if I am missing anything else.                            | What gaps do you see? What are you not understanding?       | 
+| I want to know if, compared to part 1, there is an improved story with   | How does this compare to part 1? Do you feel like the data  |  | with better argument support from my data (and visualizations)           | supports the story and the call to action?                  |
 
 ## Interview findings
 
