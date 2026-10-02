@@ -79,7 +79,9 @@ Syafitri, Musdalifah. «The Impact of the Arts on Children’s Cognitive Develop
 Data for customer persona:
 
 Claritas. (n.d.). https://claritas360.claritas.com/mybestsegments/#segDetail/PZP/01
+
 Claritas. (n.d.). https://claritas360.claritas.com/mybestsegments/#segDetail/PZP/02
+
 Claritas. (n.d.). https://claritas360.claritas.com/mybestsegments/#segDetail/PZP/06
 
 ## AI acknowledgements
