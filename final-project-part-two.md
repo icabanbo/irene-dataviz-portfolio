@@ -23,6 +23,12 @@ For critiques, I want a sample of people who know me very well, people from my d
 _For audience:_
 For the purposes of this project, I am pretending that I will be presenting to a group of private foundation officers whose portfolios lack an arts component, but whose mission has an element of social good. These people will have millions of dollars at their disposal and are looking to expand their reach to underserved sectors and fields. 
 
+## Personas
+
+Using [Claritas](https://claritas360.claritas.com/mybestsegments/#zipLookup), I made a [Miro Board](https://miro.com/app/board/uXjVEf9kbmA=/?share_link_id=915034526765) with two different personas using the same zip code. The first persona, Sue, was made by me and the second, Dr. Anjali Rao, was made by Claude AI. I wanted to use AI to make the second to compare it with what I could do based on previous experience using Miro and Claritas to make marketing personas. As I expected, even with all the information I gave Claude, it couldn't really do much more than what I presented as an example. That said, I do think that it was a fun experiment and a good way to have two "people' for which I could make my presentation form.
+
+Based off of these personas, I need to present in a clear, concise way. My ask needs to be straightforward and so does my call-to-action. I also need to present my data as comprehensively as possible, as these two people will not accept whatever typical answer I give them. They want a clear project they can envision and instantly put their money in.
+
 ## Interview script
 
 |                                Goal                                      |                      Questions to Ask                       |
