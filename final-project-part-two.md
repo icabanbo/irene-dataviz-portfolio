@@ -63,9 +63,16 @@ For the purposes of this project, I am pretending that I will be presenting to a
 
 # Identified changes for Part III
 
+From what I've gathered from my critiques, I made a huge improvement in this second part. My story makes more sense, my data visualizations are more effective, and I'm doing a better job at convincing my audience. That said, I do think I need to make a lot of improvements, still. Out of the four people that saw my visualization, 50% said that I needed to reconsider my graphics. One of them found the first two a bit confusing and another thought the third one was an incorrect data visualization type, which I agree with. Additionally, I would like to connect my story a bit better. One of my critiques mentioned that there was no connection between SAT scores and reduced recidivism, meaning that I failed in providing a clear line across this data to build my story. As a matter of fact, I am still talking with this person to see what exactly didn't click so I can further improve these details. It is very important for me that everyone understands my story, not just a majority. With topics like this, I believe that there is no room for error.
 
+**Moving forward:**
 
-## Personas
+For part 3 of this project, I would like to do a few things:
+- Rely less on opinion and more on facts when I'm narrating. I was told that my voice influenced the writing too much, and that there needs to be a "no nonsense" element on these types of presentations. My opinion won't change minds or lives, facts will. Because of this, I want to cite my data inside the text more, since data visualizations are supposed to supplement writing, not the other way around. By relying too heavily on my graphics to explain my story, I dropped the ball in my explanations and unpacking what they meant. I would like to explore being more comprehensive.
+- I want to add one more data visualization, potentially like the one in part 1 where I had a pictograph that demonstrated the impact of the arts on kids. I received very positive feedback on that and want to find a way to reincorporate it again. The only I can picture it working is if I add data about the economic impact of the arts, but I'm not sure if it'll tie well into my story since it focuses more on the people. I will explore my options.
+- Finally, I want to add quotes from people who have been directly impacted by after-school arts programs. Both in this class and my marketing class, we talked about how having big numbers can disconnect people from whatever is actually happening. Because it's happening to many people, it seems more normal and doesn't make as big as an emotional impact. By adding direct quotes from few people, I think my argument will become stronger, more persuasive, and add to my call to action.
+
+## Personas & Verbal Mood Board
 
 Using [Claritas](https://claritas360.claritas.com/mybestsegments/#zipLookup), I made a [Miro Board](https://miro.com/app/board/uXjVEf9kbmA=/?share_link_id=915034526765) with two different personas using the same zip code. The first persona, Sue, was made by me and the second, Dr. Anjali Rao, was made by Claude AI. I wanted to use AI to make the second to compare it with what I could do based on previous experience using Miro and Claritas to make marketing personas. As I expected, even with all the information I gave Claude, it couldn't really do much more than what I presented as an example. That said, I do think that it was a fun experiment and a good way to have two "people' for which I could make my presentation form.
 
