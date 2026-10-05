@@ -19,7 +19,7 @@ How exactly do the arts impact children? A study done by Musdalifah Syafitri in 
 
 Isn't this exactly what we strive towards, as a society? We want to have children with critical thinking skills, the ability to apply what they know, and, of course, the motor skills necessary to accompany these cognitive skills. **Reminder:** this is only in _elementary schoolchildren_. Imagine how far this could go if we expand this exposure to, for example, middle school? Or high-school? What would that look like? Well...
 
-<img width="1340" height="957" alt="image" src="https://github.com/user-attachments/assets/f626cabc-4dc0-4002-9f26-9c22a1a7feec" />
+<img width="1340" height="957" alt="image" src="https://github.com/user-attachments/assets/972cd681-aea8-450b-a79d-9c1019fdb92a" />
 
 My sources for this data came Americans for the Arts. Citations are under _References_ on this same page.
 
