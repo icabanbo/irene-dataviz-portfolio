@@ -117,4 +117,4 @@ Americans for the Arts, Arts + Prisons & Rehabilitation. https://ww2.americansfo
 - Claude AI was used to find information, however, all sources were double-checked by me in the resources for each paper I am referencing.
 - Claude AI was used to make the sankey chart with the data about Arts-in-Corrections. I knew I couldn't do it on Tableau because the data wouldn't be perfect, and I also chose not to draw it because it wouldn't fit in with the general aesthetic of the visualizations in this project, so I had AI make it for me. The information was looked up by me, however, not AI. 
 
-## To get a sneak peek of my Shorthand website, click [here](https://carnegiemellon.shorthandstories.com/3db6353a-ea54-430d-84c2-995b7d911973/)
+## To get a sneak peek of my Shorthand website, click [here](https://carnegiemellon.shorthandstories.com/art-as-a-community-development-tool/index.html)
