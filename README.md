@@ -1,4 +1,4 @@
-| [Home Page](https://icabanbo.github.io/irene-dataviz-portfolio/) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md) | [Critique & Redesign MakeoverMonday](Critique-&-Redesign-MakeoverMonday.md)
+| [Home Page](https://icabanbo.github.io/irene-dataviz-portfolio/) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) | [Critique & Redesign MakeoverMonday](Critique-&-Redesign-MakeoverMonday) |
 
 
 # About me
