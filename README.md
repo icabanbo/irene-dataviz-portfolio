@@ -1,4 +1,4 @@
-| [Home Page](https://icabanbo.github.io/irene-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) | [Critique & Redesign MakeoverMonday](Critique-&-Redesign-MakeoverMonday.md) | [test](https://github.com/icabanbo/irene-dataviz-portfolio/blob/main/test.md) | [test2](https://github.com/icabanbo/irene-dataviz-portfolio/blob/main/test2.md)
+| [Home Page](https://icabanbo.github.io/irene-dataviz-portfolio/) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) | [Critique & Redesign MakeoverMonday](Critique-&-Redesign-MakeoverMonday.md)
 
 
 # About me
