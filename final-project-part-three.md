@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Home Page](https://icabanbo.github.io/irene-dataviz-portfolio/) | [Final Project I](https://github.com/icabanbo/irene-dataviz-portfolio/blob/main/final-project-part-one.md) | [Final Project II](https://github.com/icabanbo/irene-dataviz-portfolio/blob/main/final-project-part-two.md) | [Final Project III](https://github.com/icabanbo/irene-dataviz-portfolio/blob/main/final-project-part-three.md) | [Critique & Redesign MakeoverMonday](Critique-&-Redesign-MakeoverMonday.md)
 
 # The final data story
 [Arts in Education and Accessibility](https://carnegiemellon.shorthandstories.com/art-as-a-community-development-tool/index.html)
