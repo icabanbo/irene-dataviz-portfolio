@@ -14,6 +14,3 @@ I hope to learn many things in this class. As an arts student, my work and knowl
 
 Frankly, it's been a struggle to learn how to deal with GitHub (this is the third time I am editing this page), so if anything seems funky, weird, or just doesn't work, I am **trying** my best.
 _List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
