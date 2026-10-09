@@ -1,3 +1,5 @@
+| [Home Page](https://icabanbo.github.io/irene-dataviz-portfolio/) | [Critique by Design](critique-by-design) | [Final Project I](https://github.com/icabanbo/irene-dataviz-portfolio/blob/main/final-project-part-one.md) | [Final Project II](https://github.com/icabanbo/irene-dataviz-portfolio/blob/main/final-project-part-two.md) | [Final Project III](https://github.com/icabanbo/irene-dataviz-portfolio/blob/main/final-project-part-three.md) | [Critique & Redesign MakeoverMonday](Critique-&-Redesign-MakeoverMonday.md)
+
 # **Critique & Redesign**
 
 # **Initial Thoughts and Data Visualization Effectiveness Profile**:
