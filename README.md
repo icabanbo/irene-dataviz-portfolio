@@ -1,7 +1,5 @@
-| [home page](https://icabanbo.github.io/irene-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) | [Critique & Redesign MakeoverMonday](Critique-&-Redesign-MakeoverMonday.md) | [test](https://github.com/icabanbo/irene-dataviz-portfolio/blob/main/test.md) | [test2](https://github.com/icabanbo/irene-dataviz-portfolio/blob/main/test2.md)
+| [Home Page](https://icabanbo.github.io/irene-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) | [Critique & Redesign MakeoverMonday](Critique-&-Redesign-MakeoverMonday.md) | [test](https://github.com/icabanbo/irene-dataviz-portfolio/blob/main/test.md) | [test2](https://github.com/icabanbo/irene-dataviz-portfolio/blob/main/test2.md)
 
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
 Hi! My name is Irene and I am a second-year MAM student here at Heinz College. This year, I am interning with **Carnegie Museums** with the Culture and Community Department, where I will work on different community projects, including *Envisioning A Just Pittsburgh*, the Hispanic Heritage Celebration at The Andy Warhol Museum, the Asian American Hawaiian Pacific Islander Heritage Celebration, and Black History Month. 
