@@ -2,34 +2,29 @@
 
 # The final data story
 [Arts in Education and Accessibility](https://carnegiemellon.shorthandstories.com/art-as-a-community-development-tool/index.html)
-Text here!
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+Since part II, the following changed have been made:
 
-Text here!
+     Instead of using cognitive development, SAT scores, and reduced recidivism, I switched to cognitive development, emotional & social development, and SAT scores. This shifted my topic from community towards education, which made a bigger impact, in my opinion. The reason why I did this is because I couldn't see how to connect education to recidivism and didn't want to elongate my story too much and confuse my audience. I wanted to draw clear lines between my story, my data, and my call to action. This also changed my one-sentence summary to “Art creates better economies, boosts cognitive abilities, and improves social well-being.” I believe that this fit better.
+     Another change was the type of data and graphs I used. In part 2, I used a sankey diagram to explain the positives of the arts in incarcerated individuals. More than changing the topic, I changed the data viz. I received negative reviews on the usage of it and, after thinking about audience engagement and efficiency, decided to go another route and used another type of chart that better fit my needs (and my data). Someone also mentioned that I should bring back the pictogram, and I did consider it and made the plan to do so in my part II notes. However, it didn't make sense to add it since changing my topic. I kept the dumbbell chart, though. My Call to Action changed too, obviously, since my target was to now fund the arts in the education system _only_, not in prisons.
+     Another change was that I relied less on my opinion and more on my data. From my feedback, I gathered that my data was strong but that I needed to emphasize it more and not make this an opinion piece. I did exactly that, although I used my own voice as a manner of persuasion.
+     Finally, my last change was adding ways of giving and resources. This came from talking with another classmate about how my call to action could be stronger and make people more likely to give. I also wanted to educate and explain that there are different types of giving, like restricted and unrestricted funds, and how nonprofit arts organizations can benefit from one or the other, depending on their needs. Additionally, I added a list of arts organization in Florida, Puerto Rico, and Atlanta that have after-school programs, camps, volunteerships & internships, and other programs that could help their community. I chose these three places because they are not the typical states or territories one thinks of when considering giving to the arts. I have personal connections to most of them, which pushed me to add them and hopefully educate my classmates on the changes they can make when they collaborate with these organizations. 
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
-
-Text here!
-
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
-
-## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+  My audience remained philanthropists and foundations with no arts portfolios. My critiques never mentioned shifting the audience and, in fact, really liked that I chose it, so I decided too not change it.
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
+Unfortunately, I used AI throughout this project:
 
-Text here!
+- Claude AI was used to build a customer persona based on information I fed it from Claritas (referenced in Part II)
+- Claude AI was also used to receive step-by-step instructions on how to build the SAT score dumbbell chart on Tableau using the information I had gathered from Americans for the Arts.
+- Claude AI was used to find information, however, all sources were double-checked by me in the resources for each paper I am referencing.
+- Claude AI was used to make the sankey chart with the data about Arts-in-Corrections. I knew I couldn't do it on Tableau because the data wouldn't be perfect, and I also chose not to draw it because it wouldn't fit in with the general aesthetic of the visualizations in this project, so I had AI make it for me. The information was looked up by me, however, not AI.
+- Claude AI was used to help me come up with ideas for topics, since I realized that I had many ideas in mind but many of them had no quantitative data I could use. It was also useful when I had my call-to-action and my introduction, but I found myself struggling how to draw a coherent storyline around that.
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
-
+This project was, in its essence, a passion project. It became that because I grew so passionate about finding all the information I possibly could and transforming that into a story I could, without a doubt, use to convince my audience. Although I struggled with the topic, it was necessary since it helped me land on something that I loved. 
+That said, I do wish I had stayed with my original idea of basing my storyline around the Miami Music Project, since it would have been a perfect way to connect my data to a real organization. I realized this as I was doing our last discussion exercise and watched the video about music. I also wish that I could have come up with the idea to add giving strategies earlier. It was a last-minute decision, but it would have been a great resource to add. Many people don't give because they just don't know how to, so adding that could have made a stronger call to action and helped more organizations in the future. 
+I learned so much from this project! I really enjoyed learning about Shorthand, specifically. For me, this is a tool that I will be using in the future. In fact, I already created an account for myself and am planning a few projects there to start off my career on a good note (the first thing will be making an EPK for my dad who, as we have learned from this project, is a very passionate violin soloist and professor). 
 
