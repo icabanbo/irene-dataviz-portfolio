@@ -1,8 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
-
+[Arts in Education and Accessibility](https://carnegiemellon.shorthandstories.com/art-as-a-community-development-tool/index.html)
 Text here!
 
 # Changes made since Part II
